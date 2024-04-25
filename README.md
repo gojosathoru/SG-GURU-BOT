@@ -1,11 +1,11 @@
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
+  <a href="https://youtube.com">
     <img alt="Guru" height="300" src="https://telegra.ph/file/47d5b4b85afc682c2f717.jpg">
     <h1 align="center">ᵁᴷ 𝙇𝙀𝙂𝙀𝙉𝘿 𝘽𝙔 𝘿𝙐𝙇𝘼𝙍𝘼 𝘼𝙆𝘼𝙎𝙃</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/gojosathoru"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.llowers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
