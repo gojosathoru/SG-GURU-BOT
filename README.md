@@ -8,11 +8,11 @@
 <a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
+<a href="https://github.llowers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
+<a href="https://github.com/BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
+<a href="https://giu322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
+<a href="https://github.c-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/2Bgithub.com%2FGuru322%?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.jects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
 </p>
 
 ####  
@@ -109,7 +109,7 @@ will update this README as soon as i find a solution to this shit
  
  ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/JVqny9ENccFG7qDg4JcHb2"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 - Star ⭐ the repo if you like GURU-BOT.
 
@@ -125,13 +125,13 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 ## `Main Dev` 
 <a href="https://github.com"><img src="https://telegra.ph/file/aaccbf8eeae988bdae156.jpg" width="250" height="250" alt="Guru322"/></a>
   
-`UK LEGEND MAIN DEVELOPER - DUKARA AKASH`
+`UK LEGEND MAIN DEVELOPER - DULARA AKASH`
 
 ### CONTRIBUTORS
-<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
-<a href="https://github.com/Amrit9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
+<a href="https://github.comei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
+<a href="https://github.t9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
 <a href="https://github.com/Ghost7798"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
-<a href="https://github.com/Kai0071"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
+<a href="https://githu71"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
 
 <h2 align="center">  Reminder
 </h2>
