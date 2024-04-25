@@ -125,7 +125,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 ## `Main Dev` 
 <a href="https://github.com"><img src="https://telegra.ph/file/aaccbf8eeae988bdae156.jpg" width="250" height="250" alt="Guru322"/></a>
   
-`ᵁᴷ 𝙇𝙀𝙂𝙀𝙉𝘿 - 𝘿𝙪𝙡𝙖𝙧𝙖 𝘼𝙠𝙖𝙨𝙝`
+`UK LEGEND MAIN DEVELOPER - DUKARA AKASH`
 
 ### CONTRIBUTORS
 <a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
