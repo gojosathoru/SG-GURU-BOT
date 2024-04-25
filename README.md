@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Guru" height="300" src="https://telegra.ph/file/47d5b4b85afc682c2f717.jpg">
-    <h1 align="center">ᵁᴷ 𝙇𝙀𝙂𝙀𝙉𝘿</h1>
+    <h1 align="center">ᵁᴷ 𝙇𝙀𝙂𝙀𝙉𝘿 𝘽𝙔 𝘿𝙐𝙇𝘼𝙍𝘼 𝘼𝙆𝘼𝙎𝙃</h1>
   </a>
 </p>
 <p align="center">
@@ -125,7 +125,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/JVqny9ENccFG7qDg4JcHb2"><img a
 ## `Main Dev` 
 <a href="https://github.com"><img src="https://telegra.ph/file/aaccbf8eeae988bdae156.jpg" width="250" height="250" alt="Guru322"/></a>
   
-`UK LEGEND MAIN DEVELOPER - DULARA AKASH`
+`UK LEGEND OWNER - DULARA AKASH`
 
 ### CONTRIBUTORS
 <a href="https://github.comei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
